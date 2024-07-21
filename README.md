@@ -2,7 +2,7 @@
 #### 🔭 I’m interested in Hadley Circulation
 #### 🌱 I’m currently learning advanced data analysis techniques and exploring their applications in atmospheric science and ocean-atmosphere interactions.
 #### 👯 I’m currently studying the Community Earth System Model (CESM).
-#### 🤔 I’m looking to collaborate on projects involving tropical atmospheric dynamics and machine learning.
+#### 🤔 I’m looking to collaborate on projects involving tropical atmospheric dynamics, machine learning, paleoclimate.
 #### 💬 Ask me about anything related to atmosphere science.
 #### 📫 How to reach me: suqianye2000@gmail.com
 #### 😄 Pronouns: He/Him
