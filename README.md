@@ -6,7 +6,7 @@
 #### 💬 Ask me about anything related to atmosphere science.
 #### 📫 How to reach me: suqianye2000@gmail.com
 #### 😄 Pronouns: He/Him
-#### ⚡ 
+#### ⚡ I'm happy to answer any questions about the Hadley Circulation.
 
 <!--
 **SQYQianYe/SQYQianYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
