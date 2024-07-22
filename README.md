@@ -13,6 +13,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&layout=compact&langs_count=6)
+
+## Quick stats about me
+| My Github Stats | Programming Languages i use|
+| --- | --- |
+| ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![ ushnostop languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=vue)
+
+
 <!--
 **SQYQianYe/SQYQianYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### 💬 Ask me about anything related to atmosphere science.
