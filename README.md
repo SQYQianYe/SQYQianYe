@@ -6,7 +6,7 @@
 #### 📫 How to reach me: suqianye2000@gmail.com
 #### 😄 Pronouns: He/Him
 #### 💬 I'm happy to answer any questions about the Hadley Circulation.
-### Github 活跃度
+### Github Activation
 
 [![](https://activity-graph.herokuapp.com/graph?username=SQYQianYe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![SQYQianYe's github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&theme=vue)
