@@ -38,9 +38,10 @@ const Qianye Su = {
 | My Github Stats | Programming Languages I use |
 | --- | --- |
 | ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
+| Activity time | Commit time |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github)
+
 
 
 
