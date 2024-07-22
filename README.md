@@ -6,20 +6,17 @@
 #### 📫 How to reach me: suqianye2000@gmail.com
 #### 😄 Pronouns: He/Him
 #### 💬 I'm happy to answer any questions about the Hadley Circulation.
-### Github Activation
-
-[![](https://activity-graph.herokuapp.com/graph?username=SQYQianYe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![SQYQianYe's github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&layout=compact&langs_count=6)
 
 ## Quick stats about me
-| My Github Stats | Programming Languages i use|
-| --- | --- |
-| ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![ ushnostop languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=vue)
+| My Github Stats | Programming Languages I use |
+| --- | --- |
+| ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github)
+
+
 
 
 <!--
