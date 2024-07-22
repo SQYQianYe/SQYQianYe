@@ -1,11 +1,36 @@
-## 👋 Hi, I’m Qianye Su, currently a Master's student at Guangdong Ocean University.
-#### 🔭 I’m interested in Hadley Circulation
-#### 🌱 I’m currently learning advanced data analysis techniques and exploring their applications in atmospheric science and ocean-atmosphere interactions.
-#### 👯 I’m currently studying the Community Earth System Model (CESM).
-#### 🤔 I’m looking to collaborate on projects involving tropical atmospheric dynamics, machine learning, paleoclimate.
-#### 📫 How to reach me: suqianye2000@gmail.com
-#### 😄 Pronouns: He/Him
-#### 💬 I'm happy to answer any questions about the Hadley Circulation.
+<!--<p align="center"> <img src="#" /> </p>
+<p align="center"> <img src="#" /> </p>-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SQYQianYe&logoColor=white&color=FFDE59" alt="SQYQianYe" /> <img
+src="https://img.shields.io/github/followers/SQYQianYe?style=social" alt="SQYQianYe" /> <img
+src="https://img.shields.io/github/last-commit/SQYQianYe/SQYQianYe" alt="SQYQianYe
+" />  </p>
+
+```javascript
+const Qianye Su = {
+    pronouns: "he" | "him",
+    location: ["Zhanjiang, China"],
+    contact: ["suqianye2000@gmail.com"],
+    collaborations: ["paleoclimate", "machine learning", "tropical atmospheric dynamics"],
+    workingOn: ["Master's student at Guangdong Ocean University..."],
+    learning: ["python", "ncl", "matlab", "C-shell", "Javascript"],
+    askMeAbout: ["Hadley circulation"，"tropical atmospheric dynamics"，"CESM"],
+    hobbies: {
+        major: {
+            indoor: ["cooking","watching animes", "gaming"],
+	    outdoor: ["traveling"],
+        },
+        funFact: {
+            secret: ["I freaking love music", "dogs"],
+        }        
+    }
+};
+```
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![NCL](https://img.shields.io/badge/NCL-green?&logo=NCL)
+![Matlab](https://img.shields.io/badge/matlab-orange?&logo=Matlab)
 
 ## Quick stats about me
 
@@ -24,6 +49,13 @@
 #### 💬 Ask me about anything related to atmosphere science.
 #### ⚡ I'm happy to answer any questions about the Hadley Circulation.
 Here are some ideas to get you started:
-
+## 👋 Hi, I’m Qianye Su, currently a Master's student at Guangdong Ocean University.
+#### 🔭 I’m interested in Hadley Circulation
+#### 🌱 I’m currently learning advanced data analysis techniques and exploring their applications in atmospheric science and ocean-atmosphere interactions.
+#### 👯 I’m currently studying the Community Earth System Model (CESM).
+#### 🤔 I’m looking to collaborate on projects involving tropical atmospheric dynamics, machine learning, paleoclimate.
+#### 📫 How to reach me: suqianye2000@gmail.com
+#### 😄 Pronouns: He/Him
+#### 💬 I'm happy to answer any questions about the Hadley Circulation.
 
 -->
