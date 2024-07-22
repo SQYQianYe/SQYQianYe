@@ -31,7 +31,7 @@ const Qianye Su = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NCL](https://img.shields.io/badge/NCL-green?&logo=NCL)
 ![Matlab](https://img.shields.io/badge/matlab-orange?&logo=Matlab)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Shell)
+![Shell](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ## Quick stats about me
 
 | My Github Stats | Programming Languages I use |
