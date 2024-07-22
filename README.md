@@ -31,7 +31,8 @@ const Qianye Su = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NCL](https://img.shields.io/badge/NCL-green?&logo=NCL)
 ![Matlab](https://img.shields.io/badge/matlab-orange?&logo=Matlab)
-![Shell](https://img.shields.io/badge/-Spring-000?&logo=Shell)
+![Shell](https://img.shields.io/badge/-Shell-blue?logo=Shell)
+
 ## Quick stats about me
 
 | My Github Stats | Programming Languages I use |
@@ -58,4 +59,5 @@ Here are some ideas to get you started:
 #### 😄 Pronouns: He/Him
 #### 💬 I'm happy to answer any questions about the Hadley Circulation.
 
+![Shell](https://img.shields.io/badge/-Spring-000?&logo=Shell)
 -->
