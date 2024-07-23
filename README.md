@@ -54,16 +54,10 @@ const Qianye Su = {
   </a> 
 </p>
 
-## ⚙️ &nbsp;Activity time
-<p>
-  <br>
-  <a href="https://github.com/SQYQianYe">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&hide_border=truelayout=compact&theme=github"/><!-- wi*quL3fcV --><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&hide_border=truelayout=compact&theme=github"/> 
-      
-  </a> 
-  <br>
-</p>
-
+## ⚙️ &nbsp;Activity
+| Activity time | Commit time |
+| --- | --- |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
 
 
 
@@ -88,4 +82,7 @@ Here are some ideas to get you started:
 | ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
 | Activity time | Commit time |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
+
+## ⚙️ &nbsp;Activity time
+
 -->
