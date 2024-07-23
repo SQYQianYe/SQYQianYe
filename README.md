@@ -37,13 +37,32 @@ const Qianye Su = {
 ![Shell](https://img.shields.io/badge/-Shell-blue?logo=Shell)
 
 ## ⚙️ &nbsp;GitHub Analytics
-| My Github Stats | Programming Languages I use |
-| --- | --- |
-| ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
-| Activity time | Commit time |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
 
+<p>
+  <br>
+  <a href="https://github.com/SQYQianYe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SQYQianYe&hide_border=true&layout=compact" />
+  </a>
+  <br>
+	
+  ----
+	
+  <br>
+  <a href="https://github.com/SQYQianYe">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SQYQianYe&hide_border=true"/>  
+  </a> 
+</p>
 
+## ⚙️ &nbsp;Activity time
+<p>
+  <br>
+  <a href="https://github.com/SQYQianYe">
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&hide_border=truelayout=compact&theme=github" />
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&hide_border=truelayout=compact&theme=github"/> 
+  </a> 
+  <br>
+</p>
 
 
 
@@ -63,4 +82,10 @@ Here are some ideas to get you started:
 #### 💬 I'm happy to answer any questions about the Hadley Circulation.
 
 ![Shell](https://img.shields.io/badge/-Spring-000?&logo=Shell)
+## ⚙️ &nbsp;GitHub Analytics
+| My Github Stats | Programming Languages I use |
+| --- | --- |
+| ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
+| Activity time | Commit time |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&theme=github)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&theme=github) |
 -->
