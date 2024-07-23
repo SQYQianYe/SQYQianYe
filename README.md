@@ -36,8 +36,7 @@ const Qianye Su = {
 ![Matlab](https://img.shields.io/badge/matlab-orange?&logo=Matlab)
 ![Shell](https://img.shields.io/badge/-Shell-blue?logo=Shell)
 
-## Quick stats about me
-
+## ⚙️ &nbsp;GitHub Analytics
 | My Github Stats | Programming Languages I use |
 | --- | --- |
 | ![ github stats](https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true) | ![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQYQianYe&show_icons=true&title_color=0099ff&icon_color=0099ff&text_color=333333&bg_color=ffffff&count_private=true&layout=compact) |
