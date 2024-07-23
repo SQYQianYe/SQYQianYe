@@ -41,8 +41,8 @@ const Qianye Su = {
 <p>
   <br>
   <a href="https://github.com/SQYQianYe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SQYQianYe&hide_border=true&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SQYQianYe&show_icons=true&hide_border=true"/><!-- wi*quL3fcV --><img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SQYQianYe&hide_border=true&layout=compact" />
+    
   </a>
   <br>
 	
@@ -58,8 +58,8 @@ const Qianye Su = {
 <p>
   <br>
   <a href="https://github.com/SQYQianYe">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&hide_border=truelayout=compact&theme=github" />
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&hide_border=truelayout=compact&theme=github"/> 
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SQYQianYe&hide_border=truelayout=compact&theme=github"/><!-- wi*quL3fcV --><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SQYQianYe&hide_border=truelayout=compact&theme=github"/> 
+      
   </a> 
   <br>
 </p>
