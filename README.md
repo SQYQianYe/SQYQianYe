@@ -13,7 +13,7 @@ const Qianye Su = {
     pronouns: "he" | "him",
     location: ["Zhanjiang, China"],
     contact: ["suqianye2000@gmail.com"],
-    collaborations: ["paleoclimate", "machine learning", "tropical atmospheric dynamics"],
+    collaborations: ["palaeoclimate", "machine learning", "tropical atmospheric dynamics"],
     studyingOn: ["Master's student at Guangdong Ocean University..."],
     learning: ["python", "ncl", "matlab", "Shell", "Javascript"],
     askMeAbout: ["Hadley circulation"，"tropical atmospheric dynamics"，"CESM"],
